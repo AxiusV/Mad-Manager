@@ -7,7 +7,7 @@
 A simple and lightweight mod manager for Mad Max on PC.
 
 ## How to use it
-Get the [latest version from GitHub](https://github.com/AxiusV/Mad-Manager/releases) and run `Mad.Manager.exe`.
+Get the [latest version from GitHub](https://github.com/AxiusV/Mad-Manager/releases) and run `Mad Manager.exe`.
 
 Not tested on Linux/Steam Deck. Since it's a **.py**, you could use it there without problems.
 
