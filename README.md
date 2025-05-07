@@ -11,7 +11,7 @@ Get the [latest version from GitHub](https://github.com/AxiusV/Mad-Manager/relea
 
 Not tested on Linux/Steam Deck. Since it's a **.py**, you could use it there without problems.
 
-After lauching it, a **''Mods''** folder will be created in it's .exe location. Select the location of Mad Max's main folder.
+After lauching it, a **''Mods''** folder will be created in it's **.exe** location. Select the location of Mad Max's main folder.
 Put any mod in the **''Mods''** folder. Now simply enable mods by checking it's checkbox and click ''Save''.
 
 ## How to release mods for this
