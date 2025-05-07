@@ -4,7 +4,7 @@
     Mad Manager
 </h1>
 
-A simple and lightweight mod manager for Mad Max on PC.
+A simple, lightweight and open source mod manager for Mad Max on PC.
 
 ## How to use it
 Get the [latest version from GitHub](https://github.com/AxiusV/Mad-Manager/releases) and run `Mad Manager.exe`.
@@ -16,4 +16,4 @@ Put any mod in the **''Mods''** folder. Now simply enable mods by checking it's 
 
 ## How to release mods for this
 
-The structure for mods must be **Mod_Main_folder/dropzone**. Inside **''dropzone''** you just put all the necessary file(s)/folder(s) for the mod to work. It's the same process for converting mods to this mod manager.
+The structure for mods must be **Mod_Main_folder/dropzone**. Inside **''dropzone''** you just put all the necessary file(s)/folder(s) for the mod to work. It's the same process for converting mods to this mod manager. The program will automatically copy the files and folders from mod's dropzone folder to the game's one after enabling it. Disabling mods makes the program automatically delete it's content from the game's dropzone folder.
