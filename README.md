@@ -15,4 +15,4 @@ After lauching it, a **Mods** folder will be created in the .exe location. Selec
 
 ## How to release mods for this
 
-The structure for mods must be ''Mod_Main_folder/dropzone''. Inside dropzone you just put all the necessary file(s) and folder(s) for the mod to work. It's the same process for converting mods to this mod manager.
+The structure for mods must be **Mod_Main_folder/dropzone**. Inside **dropzone** you just put all the necessary file(s) and folder(s) for the mod to work. It's the same process for converting mods to this mod manager.
