@@ -11,7 +11,7 @@ Get the [latest version from here](https://github.com/AxiusV/Mad-Manager/release
 
 Not tested on Linux/Steam Deck. Since it's a **.py**, you could use it there without problems.
 
-After lauching it, a Mods folder will be created in the .exe location. Select the location of Mad Max's main folder. Put any mod in the Mods folder. Now simply enable mods with their respective toggles. The app will automatically copy the files and folders from mod's dropzone folder to the game's one after enabling it. Disabling mods makes the app automatically delete it's content from the game's dropzone folder.
+After lauching it, a **Mods** folder will be created in the .exe location. Select the location of Mad Max's main folder. Put any mod in the **Mods** folder. Now simply enable mods with their respective toggles. The app will automatically copy the files and folders from mod's **dropzone** folder to the game's one after enabling it. Disabling mods makes the app automatically delete it's content from the game's **dropzone** folder.
 
 ## How to release mods for this
 
